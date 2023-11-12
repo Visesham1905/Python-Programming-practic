@@ -1,0 +1,11 @@
+num1=input("Enter the number first")
+num2=input("Enter the number second")
+
+sum=int(num1)+int(num2)
+print("Sum of two number is=",sum)
+sub=float(num1)-float(num2)
+print("sub is =",sub)
+mult=int(num1)*int (num2)
+print("Multiplication of two number is=",mult)
+div=int(num1)/int(num2)
+print("Division of two number is =",div)
